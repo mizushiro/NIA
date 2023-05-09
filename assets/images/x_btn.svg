@@ -1,0 +1,10 @@
+<svg id="x_btn" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="사각형_69" data-name="사각형 69" fill="rgba(255,255,255,0.2)" stroke="#c6c6c6" stroke-width="1">
+    <rect width="34" height="34" rx="5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="33" height="33" rx="4.5" fill="none"/>
+  </g>
+  <g id="x" transform="translate(9 9)">
+    <line id="선_1" data-name="선 1" x1="17" y2="17" fill="none" stroke="#bcbcbc" stroke-width="3"/>
+    <line id="선_2" data-name="선 2" x2="17" y2="17" fill="none" stroke="#bcbcbc" stroke-width="3"/>
+  </g>
+</svg>
